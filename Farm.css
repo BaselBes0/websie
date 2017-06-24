@@ -1,0 +1,149 @@
+
+a{
+text-decoration: none;
+color: inherit;
+
+}
+
+a:hover {
+
+text-decoration: none;
+
+color: black;
+
+}
+
+#basha {
+background: #1aed83;
+padding-bottom: 16px;
+font-style: Verdana;
+color: white;
+font-size: 17px;
+margin: 0 auto; 
+}
+
+#bebe {
+background: #8bf9bd;
+font-size: 33px;
+padding-bottom: 31px;
+font-style: Georgia;
+color: white;
+
+}
+
+
+li {
+margin-left : 33px;
+padding-right: 33px;
+padding-right:750px;
+
+	display:inline;
+
+padding-left: 70px;
+
+
+	}
+
+	ul {
+margin : 0 auto;
+
+float: center;
+
+	}
+
+	#love {
+border:dotted 5px;
+text-align: left;
+border-radius: 77px;
+background: #f2e8e8;
+padding-left: 50px;
+
+	}
+
+	#momo 
+{
+
+	background: #8bf9bd;
+
+
+	color: red;
+
+font-style: bold;
+
+padding: 53px;
+}
+
+
+#meme {
+
+text-align: right;
+
+color: #de1400;
+
+
+}
+
+
+
+#momaq {
+font-style: Georgia;
+color: white;
+background: #55f49e;
+border-radius: 30px;
+font-size: 22px;
+font-family: arial;
+font-style: bold;
+
+}
+
+
+#sidebar {
+
+background: brown;
+float: right;
+height: 100%;
+
+}
+
+
+
+#write {
+color: #515151;
+font-family: bold;
+font-style: italic;
+font-size: 22px; 
+
+
+}
+
+#linksa {
+
+color: browenl;
+font-size: 29px;
+font-weight: bold;
+font-style: italic;
+
+}
+
+
+.button {
+width: 190px;
+height: 50px;
+border-radius: 30px;
+background-color: #5df7a3;
+color: white;
+font-size: 120%;
+box-shadow: 0px 5px black;
+cursor: pointer;
+border: none;
+transition-duration: 0.08s;
+}
+
+
+.button:active {
+
+box-shadow: 0px 0px black;
+transform: translateY(5px);
+margin-bottom: 11px;
+
+}
